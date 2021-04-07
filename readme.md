@@ -17,15 +17,15 @@ Um sistema Web que torne possível o melhor gerenciamento de pousadas e hotéis,
 
 ## Pré-requisitos
 
-PHP ^7.1.3
-Laravel 5.6.*
+<p>PHP ^7.1.3</p>
+<p>Laravel 5.6.*</p>
 
 ## How to run
 
-1 Configurar .env file
-2 Composer update
-3 Rodar migrations (Com seed caso queira)
-4 try it
+<p>1 Configurar .env file</p>
+<p>2 Composer update</p>
+<p>3 Rodar migrations (Com seed caso queira)</p>
+<p>4 try it</p>
 
 ## Security Vulnerabilities
 
