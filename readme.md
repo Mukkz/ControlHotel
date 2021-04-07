@@ -9,7 +9,7 @@
 
 ## Sobre o ControlHotel
 
-Primeiao criação com Laravel - Projeto de Conclusão de Curso - Sistemas para Internet - Univali 2018
+Primeira criação com Laravel - Projeto de Conclusão de Curso - Sistemas para Internet - Univali 2018
 
 ## Descrição do Sistema
 
