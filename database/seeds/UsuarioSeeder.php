@@ -17,7 +17,7 @@ class UsuarioSeeder extends Seeder
     {
         $dados =[
             'nome' => "Samuel",
-            'email'=> "samueltaira@hotmail.com",
+            'email'=> "teste@teste.com",
             'hotel_id'=> "1",
             'password' => bcrypt("teste123"),
             'telefone'=> "47999999999",
@@ -38,9 +38,9 @@ class UsuarioSeeder extends Seeder
         ];
 
         $dados4=[
-          'nome' => 'Samuel Taira da Costa',
-          'email' => 'samueltaira@hotmail.com',
-          'contato'  => '47991616054',
+          'nome' => 'Tester',
+          'email' => 'teste1@teste1.com',
+          'contato'  => '47999999999',
           'dataNascimento'  => '03/11/1993',
           'hotel_id'  => '1'
         ];
