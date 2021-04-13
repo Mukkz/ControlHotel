@@ -15,6 +15,12 @@ Primeira criação com Laravel - Projeto de Conclusão de Curso - Sistemas para 
 
 Um sistema Web que torne possível o melhor gerenciamento de pousadas e hotéis, dando ao usuário integração de informações (cadastro dos hóspedes, controle dos quartos, mapa de reservas dos quartos, reservas futuras, consumo) e segurança dos dados em um único lugar. 
 
+## Recursos Utilizados
+
+<p>Laravel</p>
+<p>JQuery</p>
+<p>AdminLTE</p>
+
 ## Pré-requisitos
 
 <p>PHP: ^7.1.3</p>
